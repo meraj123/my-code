@@ -1,4 +1,4 @@
-def print:
-    print("hello")
+def sum(a,b):
+    return a+b
 
-print(print())
+print(sum(1,2))
